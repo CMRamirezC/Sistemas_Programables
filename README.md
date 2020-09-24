@@ -3,7 +3,7 @@
 :boy: Ramirez Cervantes Cesar Manuel    17212176 
 
 :green_book: Equipo VERDE 
-____
+---
 ## Unidad 1: ##
 :memo: Actividades
 
