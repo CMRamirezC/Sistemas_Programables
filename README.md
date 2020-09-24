@@ -1,10 +1,9 @@
 # :books: Sistemas Programables
+*Ingenieria en Sistemas Computacionales*
 
 :boy: Ramirez Cervantes Cesar Manuel    17212176 
 
 :green_book: Equipo VERDE 
-
-Ingenieria en Sistemas Computacionales
 
 ## Unidad 1: ##
 :memo: Actividades
