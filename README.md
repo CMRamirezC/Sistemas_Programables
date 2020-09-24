@@ -4,6 +4,8 @@
 
 :green_book: Equipo VERDE 
 
+Ingenieria en Sistemas Computacionales
+
 ## Unidad 1: ##
 :memo: Actividades
 
