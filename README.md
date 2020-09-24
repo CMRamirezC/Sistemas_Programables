@@ -1,7 +1,8 @@
 # :books: Sistemas Programables
 
 :boy: Ramirez Cervantes Cesar Manuel    17212176 
-:book_green: Equipo VERDE 
+
+:green_book: Equipo VERDE 
 
 ## Unidad 1:
 Actividades
