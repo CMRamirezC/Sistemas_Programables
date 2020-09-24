@@ -4,7 +4,7 @@
 
 :green_book: Equipo VERDE 
 ____
-## Unidad 1:
+## Unidad 1: ##
 :memo: Actividades
 
   1.- [C0.1 Integrar Equipos de Trabajo](blog/C0.1_CesarManuelRamirezCervantes_VERDE.md)
