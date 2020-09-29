@@ -16,3 +16,5 @@
   
   4. [C1.2 Electronica Basica (Circuitos)](blog/C1.2_CesarManuelRamirezCervantes_VERDE.md)
   
+  5. [C1.3 Circuitos electronicos con sensores y transductores](blog/C1.3_CesarManuelRamirezCervantes_VERDE.md)
+  
