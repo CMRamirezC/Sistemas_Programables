@@ -6,7 +6,7 @@
 :green_book: Equipo VERDE 
 
 ## Unidad 1: ##
-:memo: Actividades
+:memo: Actividades Individuales
 
   1. [C0.1 Integrar Equipos de Trabajo](blog/C0.1_CesarManuelRamirezCervantes_VERDE.md)
 
@@ -17,4 +17,7 @@
   4. [C1.2 Electronica Basica (Circuitos)](blog/C1.2_CesarManuelRamirezCervantes_VERDE.md)
   
   5. [C1.3 Circuitos electronicos con sensores y transductores](blog/C1.3_CesarManuelRamirezCervantes_VERDE.md)
+  
+:memo: Actividades en Equipo
+  1. []() 
   
