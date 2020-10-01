@@ -19,5 +19,5 @@
   5. [C1.3 Circuitos electronicos con sensores y transductores](blog/C1.3_CesarManuelRamirezCervantes_VERDE.md)
   
 :memo: Actividades en Equipo
-  1. []() 
+  1. [A1.2 Sensor Fotorresistivo](Actividades/A1.2_CesarManuelRamirezCervantes_VERDE.md) 
   
