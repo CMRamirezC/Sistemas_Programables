@@ -20,6 +20,8 @@
   
   6. [C1.4 Acondicionador de señal](blog/C1.4_CesarManuelRamirezCervantes_VERDE.md)
   
+  7. [C1.5 Tipos de sensores](blog/C1.5_CesarManuelRamirezCervantes_VERDE.md)
+  
 :memo: Actividades en Equipo
   1. [A1.2 Sensor Fotorresistivo](Actividades/A1.2_CesarManuelRamirezCervantes_VERDE.md) 
   
