@@ -25,3 +25,5 @@
 :memo: Actividades en Equipo
   1. [A1.2 Sensor Fotorresistivo](Actividades/A1.2_CesarManuelRamirezCervantes_VERDE.md) 
   
+  2. [A1.3 Tipos de Sensores Comerciales](Actividades/A1.3_CesarManuelRamirezCervantes_VERDE.md) 
+  
