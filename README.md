@@ -24,6 +24,8 @@
   
   8. [C2.1 Actuadores](blog/C2.1_CesarManuelRamirezCervantes_VERDE.md)
   
+  9. [C2.2 Actuadores Eléctricos](blog/C2.2_CesarManuelRamirezCervantes_VERDE.md)
+  
 :memo: Actividades en Equipo
   1. [A1.2 Sensor Fotorresistivo](Actividades/A1.2_CesarManuelRamirezCervantes_VERDE.md) 
   
