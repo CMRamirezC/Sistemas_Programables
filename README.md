@@ -22,12 +22,6 @@
   
   7. [C1.5 Tipos de sensores](blog/C1.5_CesarManuelRamirezCervantes_VERDE.md)
   
-  8. [C2.1 Actuadores](blog/C2.1_CesarManuelRamirezCervantes_VERDE.md)
-  
-  9. [C2.2 Actuadores Eléctricos](blog/C2.2_CesarManuelRamirezCervantes_VERDE.md)
-  
-  10. [C2.3 Temporizador 555](blog/C2.3_CesarManuelRamirezCervantes_VERDE.md)
-  
 :memo: Actividades en Equipo
   1. [A1.2 Sensor Fotorresistivo](Actividades/A1.2_CesarManuelRamirezCervantes_VERDE.md) 
   
@@ -35,4 +29,16 @@
   
   3. [A1.4 Sensores TMP36](Actividades/A1.4_CesarManuelRamirezCervantes_VERDE.md) 
   
-  4. [A2.1 Actuadores](Actividades/A2.1_CesarManuelRamirezCervantes_VERDE.md) 
+  
+## Unidad 2: ##
+:memo: Actividades Individuales
+  
+  1. [C2.1 Actuadores](blog/C2.1_CesarManuelRamirezCervantes_VERDE.md)
+  
+  2. [C2.2 Actuadores Eléctricos](blog/C2.2_CesarManuelRamirezCervantes_VERDE.md)
+  
+  3. [C2.3 Temporizador 555](blog/C2.3_CesarManuelRamirezCervantes_VERDE.md)
+  
+:memo: Actividades en Equipo
+  
+  1. [A2.1 Actuadores](Actividades/A2.1_CesarManuelRamirezCervantes_VERDE.md) 
