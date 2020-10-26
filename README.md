@@ -34,3 +34,5 @@
   2. [A1.3 Tipos de Sensores Comerciales](Actividades/A1.3_CesarManuelRamirezCervantes_VERDE.md) 
   
   3. [A1.4 Sensores TMP36](Actividades/A1.4_CesarManuelRamirezCervantes_VERDE.md) 
+  
+  4. [A2.1 Actuadores](Actividades/A2.1_CesarManuelRamirezCervantes_VERDE.md) 
