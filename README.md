@@ -42,3 +42,5 @@
 :memo: Actividades en Equipo
   
   1. [A2.1 Actuadores](Actividades/A2.1_CesarManuelRamirezCervantes_VERDE.md) 
+  
+  2. [A2.2 Circuito temporizador](Actividades/A2.2_CesarManuelRamirezCervantes_VERDE.md) 
