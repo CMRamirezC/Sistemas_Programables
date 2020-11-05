@@ -49,6 +49,6 @@
 ## Unidad 3: ##
 :memo: Actividades Individuales
 
-  1.[C3.1 ]()
+  1. [C3.1 ]()
   
-  2.[C3.2 Arduino IDE Salida Digital](blog/C3.2_CesarManuelRamirezCervantes_VERDE.md)
+  2. [C3.2 Arduino IDE Salida Digital](blog/C3.2_CesarManuelRamirezCervantes_VERDE.md)
