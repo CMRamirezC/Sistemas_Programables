@@ -44,3 +44,11 @@
   1. [A2.1 Actuadores](Actividades/A2.1_CesarManuelRamirezCervantes_VERDE.md) 
   
   2. [A2.2 Circuito temporizador](Actividades/A2.2_CesarManuelRamirezCervantes_VERDE.md) 
+
+
+## Unidad 3: ##
+:memo: Actividades Individuales
+
+  1. [C3.1 ]()
+  
+  2.[C3.2 Arduino IDE Salida Digital](blog/C3.2_CesarManuelRamirezCervantes_VERDE.md)
