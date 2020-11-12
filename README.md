@@ -56,3 +56,8 @@
   3. [C3.3 Arduino IDE Entrada Analoga y Función Serial](blog/C3.3_CesarManuelRamirezCervantes_VERDE.md)
   
   4. [C3.4 Arduino IDE Entrada Salida, Sensor y Función Serial](blog/C3.4_CesarManuelRamirezCervantes_VERDE.md)
+  
+:memo: Actividades en Equipo
+
+  1. [A3.1 Circuito sensor de deteccion de objetos](Actividades/A3.1_CesarManuelRamirezCervantes_VERDE.md)
+
