@@ -57,6 +57,10 @@
   
   4. [C3.4 Arduino IDE Entrada Salida, Sensor y Función Serial](blog/C3.4_CesarManuelRamirezCervantes_VERDE.md)
   
+  5. [C3.5 Evaluación Microcontrolador NodeMCU ESP32 y sus características](blog/C3.5_CesarManuelRamirezCervantes_VERDE.md)
+  
+  6. [C3.6 Arduino IDE, ESP32 y Entrada Analogica](blog/C3.6_CesarManuelRamirezCervantes_VERDE.md)
+  
 :memo: Actividades en Equipo
 
   1. [A3.1 Circuito sensor de deteccion de objetos](Actividades/A3.1_CesarManuelRamirezCervantes_VERDE.md)
