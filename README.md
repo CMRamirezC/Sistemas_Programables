@@ -66,4 +66,6 @@
 :memo: Actividades en Equipo
 
   1. [A3.1 Circuito sensor de deteccion de objetos](Actividades/A3.1_CesarManuelRamirezCervantes_VERDE.md)
+  
+  2. [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](Actividades/A3.2_CesarManuelRamirezCervantes_VERDE.md)
 
