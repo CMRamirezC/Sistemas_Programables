@@ -63,6 +63,8 @@
   
   7. [C3.7 Arduino IDE, ESP32 y PWM](blog/C3.7_CesarManuelRamirezCervantes_VERDE.md)
   
+  7. [C3.8 Programación Microcontrolador NodeMCU ESP32](blog/C3.8_CesarManuelRamirezCervantes_VERDE.md)
+  
 :memo: Actividades en Equipo
 
   1. [A3.1 Circuito sensor de deteccion de objetos](Actividades/A3.1_CesarManuelRamirezCervantes_VERDE.md)
