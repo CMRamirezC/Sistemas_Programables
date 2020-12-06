@@ -72,4 +72,10 @@
   2. [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](Actividades/A3.2_CesarManuelRamirezCervantes_VERDE.md)
   
   3. [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](Actividades/A3.3_CesarManuelRamirezCervantes_VERDE.md)
+  
+  
+## Unidad 4: ##
+:memo: Actividades Individuales
+
+   1. [C4.1 Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1_CesarManuelRamirezCervantes_VERDE.md)
 
