@@ -79,6 +79,8 @@
 
    1. [C4.1 Protocolo Bluetooth y el NodeMCU ESP32](blog/C4.1_CesarManuelRamirezCervantes_VERDE.md)
    
+   2. [C4.2 Comunicacion por medio del protocolo Wi-Fi](blog/C4.2_CesarManuelRamirezCervantes_VERDE.md)
+   
 :memo: Actividades en Equipo:
 
    1. [A4.1 Comunicacion por medio del protocolo Wi-Fi](Actividades/A4.1_CesarManuelRamirezCervantes_VERDE.md)
