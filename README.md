@@ -85,3 +85,4 @@
 
    1. [A4.1 Comunicacion por medio del protocolo Wi-Fi](Actividades/A4.1_CesarManuelRamirezCervantes_VERDE.md)
 
+   2. [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](Actividades/A4.2_CesarManuelRamirezCervantes_VERDE.md)
