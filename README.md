@@ -92,3 +92,7 @@
 :memo: Actividades Individuales
 
   1. [C5.2 Arquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](blog/C5.2_CesarManuelRamirezCervantes_VERDE.md)
+  
+:memo: Actividades en Equipo:
+
+  1. [A5.1 Actividad Final Identificación del color de un objeto](Actividades/A5.1_CesarManuelRamirezCervantes_VERDE.md)
